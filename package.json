@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "buid-windows": "NODE_ENV='production' webpack",
-    "build": "SET NODE_ENV='production' && webpack",
+    "buid-windows": "SET NODE_ENV='production' webpack",
+    "build": "NODE_ENV='production' && webpack",
     "start": "webpack-dev-server"
   },
   "babel": {
