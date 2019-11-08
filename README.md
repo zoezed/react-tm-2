@@ -1,1 +1,2 @@
-# react-tm-2
+# Updated Tyler McGinnis React Git Battle Course
+Hosted at: https://determined-tesla-fffceb.netlify.com/
